@@ -1,3 +1,7 @@
+<div style="object-fit: cover;">
+<img align="center" height=450 width="100%" align="center" src="https://github.com/sagarmish1234/sagarmish1234/blob/main/kevin-laminto-7PqRZK6rbaE-unsplash.jpg?raw=true" />
+</div>
+
 # Hi there, I'm Sagar Mishra! 👋
 
 I'm a passionate software developer interested in building web applications and exploring new technologies.
