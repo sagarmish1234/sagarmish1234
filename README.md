@@ -1,5 +1,5 @@
-<div style="object-fit: cover;">
-<img align="center" height=450 width="100%" align="center" src="https://github.com/sagarmish1234/sagarmish1234/blob/main/kevin-laminto-7PqRZK6rbaE-unsplash.jpg?raw=true" />
+<div style="object-fit: cover;" align=center>
+<img align="center" height=400 width="100%" align="center" src="https://github.com/sagarmish1234/sagarmish1234/blob/main/kevin-laminto-7PqRZK6rbaE-unsplash.jpg?raw=true" />
 </div>
 
 # Hi there, I'm Sagar Mishra! 👋
