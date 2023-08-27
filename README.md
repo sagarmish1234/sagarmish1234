@@ -2,10 +2,8 @@
 
 I'm a passionate software developer interested in building web applications and exploring new technologies.
 
-- 🌱 I’m currently learning React.js.
-- 🚀 I'm enthusiastic about open source projects.
 
-### Technologies & Tools
+## 💼 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=flat&logo=css3&logoColor=white)
@@ -18,7 +16,8 @@ I'm a passionate software developer interested in building web applications and 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-### GitHub Stats, Trophies, and Top Languages
+
+## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sagarmish1234&theme=radical" />
@@ -27,12 +26,15 @@ I'm a passionate software developer interested in building web applications and 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmish1234&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### Trophies
+
+## 🏆 Trophies
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height=100 align="center" src="https://github-profile-trophy.vercel.app/?username=sagarmish1234&theme=radical&rank=-C&row=1&column=5" />
 </a>
 
-### Connect with Me
+
+## 📞 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Mishra-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sagar-mishra-76b990198/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sagarmish1234-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/sagarmish1234/)
